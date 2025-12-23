@@ -1,0 +1,5 @@
+{
+  "name": "VizGen - Universal Diagram Generator",
+  "description": "An AI-powered tool that generates diagrams, charts, and visualizations from text prompts using Mermaid.js, Recharts, and SVG.",
+  "requestFramePermissions": []
+}
